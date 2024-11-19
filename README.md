@@ -11,10 +11,10 @@
 <br/>
 
 ### To view the full wireframe, mockups and prototype of Leona Handbag e-Commerce Design click the link below
-https://www.figma.com/design/4GRCEZ5sg4ArJZT4yfHUeX/Untitled?node-id=0-1&t=JV9BxuJJ61UihR5O-1
+[Apple website](https://www.figma.com/design/4GRCEZ5sg4ArJZT4yfHUeX/Untitled?node-id=0-1&t=JV9BxuJJ61UihR5O-1)
 
-- Prototype for desktop view: https://www.figma.com/proto/4GRCEZ5sg4ArJZT4yfHUeX/Untitled?node-id=1-2&node-type=frame&t=nJXQx553uAD6aQPG-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=25%3A332
-- Prototype for Mobile view: https://www.figma.com/proto/4GRCEZ5sg4ArJZT4yfHUeX/Untitled?node-id=60-502&node-type=canvas&t=bSRA9iHL0O4Z8sWp-1&scaling=scale-down&content-scaling=fixed&page-id=48%3A62
+- Prototype for desktop view:  [Link ](https://www.figma.com/proto/4GRCEZ5sg4ArJZT4yfHUeX/Untitled?node-id=1-2&node-type=frame&t=nJXQx553uAD6aQPG-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=25%3A332) 
+- Prototype for Mobile view:   [Link ](https://www.figma.com/proto/4GRCEZ5sg4ArJZT4yfHUeX/Untitled?node-id=60-502&node-type=canvas&t=bSRA9iHL0O4Z8sWp-1&scaling=scale-down&content-scaling=fixed&page-id=48%3A62) 
 
 ## Playing a prototype on desktop
 
